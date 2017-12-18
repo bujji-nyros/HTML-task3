@@ -1,0 +1,22 @@
+header{
+		background-image: url("/home/nyros/Desktop/Assignments/task3/keyboard.jpeg");
+		background-size: 100% 300%;
+		background-repeat: no-repeat;
+		color:white;
+		text-align: center;
+		padding:40px;
+	}	
+article{
+		padding-left: 250px;
+		padding-top: 25px;
+		padding-bottom: 25px;
+	}
+#id1{
+		background-color: rgb(100,50,150);
+		color:white;
+	}
+footer{
+		padding-left:250px;
+		padding-top: 25px;
+		padding-bottom: 25px;
+	}
